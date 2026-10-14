@@ -1,12 +1,8 @@
 @import "tailwindcss";
-
 @import url('https://fonts.googleapis.com/css2?family=Reenie+Beanie&display=swap');
-
-@import url('https://fonts.googleapis.com/css2?family=Edu+QLD+Hand:wght@400..700&display=swap');
-
-
+@import url('https://fonts.googleapis.com/css2?family=Edu+QLD+Hand:wght@400;700&display=swap');
 
 @theme {
   --font-reenie: "Reenie Beanie", cursive;
-  --font-edu:"Edu QLD Hand", cursive;
+  --font-edu: "Edu QLD Hand", cursive;
 }
